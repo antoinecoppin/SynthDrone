@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.4",
+	"FriendlyName": "2D Bounding Box Tool",
+	"Description": "Plugin to generate image detection datasets.",
+	"Category": "Computer Vision",
+	"CreatedBy": "Plasma Labs",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/Plasma-Lab/Unreal-2D-Bounding-Box-Plugin/blob/main/README.md",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d59ba78fe1ee46bd957e302998e6584d",
+	"SupportURL": "https://discord.gg/UCXAs2Ex",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BoundingBox2D",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		}
+	]
+}

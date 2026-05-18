@@ -77,3 +77,7 @@ cesium-request-cache.sqlite
 cesium-request-cache.sqlite-wal
 cesium-request-cache.sqlite-shm
 output/
+cesium-request-cache.sqlite
+cesium-request-cache.sqlite-wal
+cesium-request-cache.sqlite-shm
+output/
